@@ -30,16 +30,20 @@ Desarrollador enfocado en soluciones robustas y escalables. Actualmente me desem
 
 Aquí puedes ver mi actividad reciente y el progreso de mis repositorios:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FluidityCore&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluidityCore&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FluidityCore&theme=radical&hide_border=true" alt="Racha de Commits" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=FluidityCore&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de FluidityCore" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluidityCore&layout=compact&theme=radical&hide_border=true" alt="Lenguajes de FluidityCore" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FluidityCore&theme=radical&hide_border=true" alt="Racha de Commits" />
+    </td>
+  </tr>
+</table>
 ---
 "El orden en el código refleja el orden en las ideas."
